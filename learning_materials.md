@@ -6,5 +6,7 @@
     usefull materials from this git book. contains ml, dl ...
     
  - usefull materials for dgl gnn 
-    https://modelzoo.co/model/dgl
-    https://cnvrg.io/graph-neural-networks/
+    - https://modelzoo.co/model/dgl
+    - https://cnvrg.io/graph-neural-networks/
+ - clear presentation for graph attention network
+    - https://www.youtube.com/watch?v=6hbWpbi0Z24
