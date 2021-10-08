@@ -1,3 +1,7 @@
+
+ #### Trajectory prediction overview from tum courses
+   - https://www.youtube.com/watch?v=dSQMJBg47es
+   - And related pdf from their official sites https://dvl.in.tum.de/slides/cv3dst-ss20/9.TrajectoryPrediction.pdf
 ### Good blogs
  - about vectornet https://www.hrwhisper.me/waymo-vectornet/ ,also his bolg contains multiple prediction related materials
  - Some basic  knowledge prediction https://curow.github.io/blog/LSTM-Encoder-Decoder/ Seems a student in ZheJiang University, 
