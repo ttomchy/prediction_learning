@@ -16,5 +16,9 @@
     - https://www.youtube.com/watch?v=6hbWpbi0Z24
     - https://zhuanlan.zhihu.com/p/34232818 good introduction from zhihu
  
+ - good blogs in zhihu for lstm and gcn introduction blog
+   - https://www.zhihu.com/people/liu-yang-21-71-74/posts
+ 
   - good paper introduction  videos for vector net 
     - https://www.youtube.com/watch?v=yJFtf-fz3WA
+ 
