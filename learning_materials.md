@@ -21,4 +21,5 @@
  
   - good paper introduction  videos for vector net 
     - https://www.youtube.com/watch?v=yJFtf-fz3WA
+ - http://huangyf.xyz/
  
